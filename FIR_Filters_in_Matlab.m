@@ -1,5 +1,12 @@
+% File: FIR_Filters_in_Matlab.m
+% Description: Two-Dimensional Finite Impulse Response (FIR) Filters in Matlab
+% Environment: Matlab
+%
+% MIT License
+% Copyright (c) 2017 Valentyn N Sichkar
+% github.com/sichkar-valentyn
+
 close all;
-clear all;
 
 %Low pass filter
 original_1 = imread('m83.tif');
