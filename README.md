@@ -1,4 +1,4 @@
-# Matlab_and_FIR_Filters
+# Matlab and FIR Filters
 Two-Dimensional Finite Impulse Response (FIR) filters in Matlab
 
 ## Description
