@@ -1,6 +1,9 @@
 # Matlab and FIR Filters
 Two-Dimensional Finite Impulse Response (FIR) filters in Matlab
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Two-Dimensional Finite Impulse Response (FIR) Filters in Matlab // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Matlab_and_FIR_Filters (date of access: XX.XX.XXXX)
 
